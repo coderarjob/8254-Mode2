@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/Projects/Projects/fpga/Verilog/Mode2_8254/Mode2Counter.ncd
+OUTFILE=/home/Projects/Projects/fpga/Verilog/Mode2_8254/Mode2Counter.bit
+FAMILY=Spartan6
+PART=xc6slx9-2csg324
+WORKINGDIR=/home/Projects/Projects/fpga/Verilog/Mode2_8254
+LICENSE=WebPack
+USER_INFO=211887652_0_0_231

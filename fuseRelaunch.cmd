@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/Projects/Projects/fpga/Verilog/Mode2_8254/test_isim_beh.exe" -prj "/home/Projects/Projects/fpga/Verilog/Mode2_8254/test_beh.prj" "work.test" "work.glbl" 
